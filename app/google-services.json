@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "696525800367",
+    "firebase_url": "https://jone-s-locker-default-rtdb.firebaseio.com",
+    "project_id": "jone-s-locker",
+    "storage_bucket": "jone-s-locker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696525800367:android:18d77115adeb36ce59a55a",
+        "android_client_info": {
+          "package_name": "com.example.opsc_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696525800367-b007u7rtssk72931r6eda4h0anosl10h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6YHfxDKCrYB0NfeKwkHvvs-zw3YM9vks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696525800367-b007u7rtssk72931r6eda4h0anosl10h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
